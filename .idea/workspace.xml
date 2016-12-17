@@ -2,162 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="400f98c7-0661-4ad7-8a45-e864309a9a80" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/spinning.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_spinning.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-black-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-black-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-black-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-black-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bold-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bold-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bold-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bolditalic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bolditalic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bolditalic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bolditalic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-heavyitalic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-heavyitalic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-heavyitalic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-heavyitalic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-italic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-italic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-italic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-italic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-light-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-light-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-light-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-light-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-lightitalic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-lightitalic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-lightitalic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-lightitalic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-regular-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-regular-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-regular-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-regular-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-bold-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-bold-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-bold-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-bold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extrabold-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extrabold-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extrabold-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extrabold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extralight-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extralight-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extralight-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extralight-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-heavy-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-heavy-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-heavy-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-heavy-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-light-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-light-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-light-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-light-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-medium-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-medium-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-medium-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-medium-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-regular-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-regular-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-regular-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-regular-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-semibold-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-semibold-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-semibold-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-semibold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-thin-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-thin-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-thin-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-thin-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/media-queries.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/License.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/Readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/fonts/Simple-Line-Icons.dev.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/fonts/Simple-Line-Icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/fonts/Simple-Line-Icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/fonts/Simple-Line-Icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/fonts/Simple-Line-Icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/icons-lte-ie7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/simple-line-icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/blog-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/hero-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/logo-@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/b-coffee-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/b-coffee-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/banjo-player.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/beetle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/coffee.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/embossed-paper.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/farmerboy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/grizzly.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/hotel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/judah.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/post-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/sample-image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/team/member01-k.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/team/member02-k.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/team/member03-k.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/team/member04-k.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/user-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/user-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/user-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/inc/sendEmail.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/backstretch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/jquery-1.10.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/jquery-migrate-1.2.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/jquery.fittext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/jquery.flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/modernizr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/waypoints.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/portfolio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/single.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -179,10 +23,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="240">
+              <caret line="92" column="102" lean-forward="false" selection-start-line="92" selection-start-column="102" selection-end-line="92" selection-end-column="102" />
               <folding>
-                <element signature="e#15452#15458#0" expanded="true" />
+                <element signature="e#15447#15453#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -337,12 +181,12 @@
       <option name="presentableId" value="Default" />
       <updated>1481892390639</updated>
       <workItem from="1481892392190" duration="266000" />
-      <workItem from="1481975302715" duration="2382000" />
+      <workItem from="1481975302715" duration="2485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2648000" />
+    <option name="totallyTimeSpent" value="2751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="6" />
@@ -428,10 +272,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="240">
+          <caret line="92" column="102" lean-forward="false" selection-start-line="92" selection-start-column="102" selection-end-line="92" selection-end-column="102" />
           <folding>
-            <element signature="e#15452#15458#0" expanded="true" />
+            <element signature="e#15447#15453#0" expanded="true" />
           </folding>
         </state>
       </provider>
