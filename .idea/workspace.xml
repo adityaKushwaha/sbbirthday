@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="400f98c7-0661-4ad7-8a45-e864309a9a80" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/blog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/spinning.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_spinning.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-black-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-black-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-black-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-black-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bold-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bold-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bold-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bolditalic-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bolditalic-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bolditalic-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-bolditalic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-heavyitalic-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-heavyitalic-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-heavyitalic-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-heavyitalic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-italic-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-italic-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-italic-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-italic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-light-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-light-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-light-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-light-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-lightitalic-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-lightitalic-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-lightitalic-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-lightitalic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/merriweather/merriweather-regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-bold-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-bold-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-bold-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-bold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extrabold-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extrabold-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extrabold-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extrabold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extralight-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extralight-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extralight-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-extralight-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-heavy-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-heavy-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-heavy-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-heavy-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-light-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-light-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-light-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-light-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-medium-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-medium-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-medium-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-medium-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-semibold-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-semibold-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-semibold-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-semibold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-thin-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-thin-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-thin-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/fonts/raleway/raleway-thin-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/media-queries.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/Readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/fonts/Simple-Line-Icons.dev.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/fonts/Simple-Line-Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/fonts/Simple-Line-Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/fonts/Simple-Line-Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/fonts/Simple-Line-Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/icons-lte-ie7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/simple-line-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/css/simple-line-icons/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/blog-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/hero-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/logo-@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/b-coffee-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/b-coffee-02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/banjo-player.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/beetle.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/coffee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/embossed-paper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/farmerboy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/grizzly.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/hotel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/portfolio/judah.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/post-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/sample-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/team/member01-k.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/team/member02-k.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/team/member03-k.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/team/member04-k.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/user-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/user-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/images/user-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/inc/sendEmail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/backstretch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/jquery-1.10.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/jquery-migrate-1.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/jquery.fittext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/jquery.flexslider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/js/waypoints.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/portfolio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/puremedia/single.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sbbirthday" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <folding>
+                <element signature="e#15452#15458#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/puremedia/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="719" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sbbirthday" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.library.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP Runtime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="standard" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="sbbirthday">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="400f98c7-0661-4ad7-8a45-e864309a9a80" name="Default" comment="" />
+      <created>1481892390639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1481892390639</updated>
+      <workItem from="1481892392190" duration="266000" />
+      <workItem from="1481975302715" duration="2382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2648000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="719" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/puremedia/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puremedia/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="64" lean-forward="true" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puremedia/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puremedia/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4080">
+          <caret line="272" column="53" lean-forward="true" selection-start-line="272" selection-start-column="53" selection-end-line="272" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puremedia/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="22" column="64" lean-forward="false" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puremedia/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#15452#15458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
