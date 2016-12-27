@@ -89,20 +89,12 @@
    <!-- Page Title
    ================================================== -->
    <section id="page-title">	
-   	  
 		<div class="row">
-
 			<div class="twelve columns">
-
 				<h1>Our Blog<span>.</span></h1>
-
-
-			</div>			    
-
-		</div> <!-- /row -->	   
-
+			</div>
+		</div> <!-- /row -->
    </section> <!-- /page-title -->
-
 
    <!-- Content
    ================================================== -->
@@ -120,26 +112,44 @@
 							Dhruv Bhatia
 						</h1> 				 
 						
-						<div class="entry-meta">
-							<ul>
-								<li>Dec 18, 2016</li>
-								<span class="meta-sep">•</span>
-								<li>Dhruv Bhatia</li>
-							</ul>
-						</div> 
-						 
+
 					</header>
 
 					<div class="entry-content-media">
 						<div class="post-thumb">
-							<img src="images/sample-image.jpg">
-						</div> 
+						</div>
 					</div> 
 						
 					<div class="entry-content">
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam turpis ligula, sodales et est at, tempus feugiat neque. Nullam in laoreet velit. Proin ut odio sed dolor tincidunt efficitur sed vel urna. Donec ullamcorper sapien nisi, in fringilla urna molestie vel. Vestibulum sollicitudin elit eget risus laoreet tincidunt. Quisque sit amet mi consequat, mattis eros ut, bibendum nibh. Morbi dictum felis eu ante tincidunt, nec molestie arcu blandit. Ut non nibh fermentum sapien imperdiet imperdiet.
+							What better gift to give than a website,<br>
+							What better way to say Happy Birthday than a video!<br><br>
+
+							Here is a message from Dhruv.<br>
+
 						</p>
+
+						<br>
+						<br>
+						<!-- "Video For Everybody" v0.4.1 by Kroc Camen of Camen Design <camendesign.com/code/video_for_everybody>
+ =================================================================================================================== -->
+						<!-- first try HTML5 playback: if serving as XML, expand `controls` to `controls="controls"` and autoplay likewise       -->
+						<!-- warning: playback does not work on iPad/iPhone if you include the poster attribute! fixed in iOS4.0                 -->
+						<video width="640" height="360" controls preload="none">
+							<!-- MP4 must be first for iPad! -->
+							<source src="videos/video_dhruv.mp4" type="video/mp4" /><!-- WebKit video    -->
+							<source src="__VIDEO__.webm" type="video/webm" /><!-- Chrome / Newest versions of Firefox and Opera -->
+							<source src="__VIDEO__.OGV" type="video/ogg" /><!-- Firefox / Opera -->
+							<!-- fallback to Flash: -->
+							<object width="640" height="384" type="application/x-shockwave-flash" data="__FLASH__.SWF">
+								<!-- Firefox uses the `data` attribute above, IE/Safari uses the param below -->
+								<param name="movie" value="__FLASH__.SWF" />
+								<param name="flashvars" value="image=__POSTER__.JPG&amp;file=__VIDEO__.MP4" />
+								<!-- fallback image. note the title field below, put the title of the video there -->
+								<img src="__VIDEO__.JPG" width="640" height="360" alt="__TITLE__"
+									 title="No video playback capabilities, please download the video below" />
+							</object>
+						</video>
 
 					</div> 
 
